@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "titulo": "Pokédex",
+    "descricao": "Projeto feito com react js, utilizando da PokeAPI para fazer busca de dados sobre seus pokemons favoritos",
+    "detalhes": "Este projeto foi desenvolvido em React.js. Utilizei o método fetch para fazer requisições à PokeAPI, uma API temática de Pokémon. A API retorna um objeto JSON, do qual filtrei apenas os dados necessários para exibição — como nome, imagens, ID e outras informações relevantes. O código-fonte completo está disponível no meu GitHub:",
+    "images": [
+      { "url": "images/projetos/pokedex-1.png" },
+      { "url": "images/projetos/pokedex-2.png" },
+      { "url": "images/projetos/pokedex-3.png" }
+    ],
+    "link": "https://github.com/Soulstic3/Pokedex"
+  },
+
+  {
+    "id": 2,
+    "titulo": "Jogo da Forca",
+    "descricao": "Jogo de advinhação de palavras utilizando JavaScript",
+    "detalhes": "Este projeto foi desenvolvido em JavaScript e consiste em um clássico jogo de adivinhação de palavras. O jogo inclui diferentes categorias, cada uma com um conjunto variado de palavras que são sorteadas aleatoriamente no início da partida. O jogador tem 6 chances para acertar a palavra secreta. O código-fonte está disponível no meu GitHub:",
+    "images": [
+      { "url": "images/projetos/forca-1.png" },
+      { "url": "images/projetos/forca-2.png" },
+      { "url": "images/projetos/forca-3.png" }
+    ],
+    "link": "https://github.com/Soulstic3/Jogo-da-Forca"
+  },
+
+  {
+    "id": 3,
+    "titulo": "Gerador de Senha",
+    "descricao": "Gerador de senha aleatoria criado utilizando javascript",
+    "detalhes": "Este projeto foi desenvolvido em JavaScript como parte de um curso de JavaScript que eu estava realizando. Utilizando a função Math.random(), o sistema é capaz de gerar senhas aleatórias personalizadas, que podem incluir, letras maiúsculas, letras minúsculas, números e símbolos especiais. O código-fonte completo está disponível no meu GitHub:",
+    "images": [
+      { "url": "images/projetos/gerador-1.png" },
+      { "url": "images/projetos/gerador-2.png" }
+    ],
+    "link": "https://github.com/Soulstic3/Password-Generator"
+  }
+]
