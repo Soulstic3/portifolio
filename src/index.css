@@ -231,17 +231,25 @@ h2 {
   bottom: 0;
   left: 0;
   background-color: rgba(0, 0, 0, 0.7);
-  z-index: 1;
+  z-index: 100;
+  -webkit-overflow-scrolling: touch; 
+  overflow: auto;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
 }
 .modal-container {
   background: #1e1e1e;
   width: 80%;
   display: flex;
   flex-direction: column;
-  z-index: 2;
+  z-index: 200;
+  position: relative;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
 }
 .modal-button {
   align-self: flex-end;
+  margin: 2vh 3vw;
 
   & button {
     background: none;
@@ -308,9 +316,10 @@ h2 {
 .carrosel button {
   height: max-content;
   border: none;
-  background: #ccc;
-  color: black;
-  font-weight: bold;
+  background: none;
+  color: white;
+  font-weight: 900;
+  font-size: xx-large;
 }
 .carrosel .indicadores button.indicador {
   padding: 0;

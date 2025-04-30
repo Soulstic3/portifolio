@@ -30,12 +30,12 @@ const Content = () => {
                 <a href={item.link} target="_blank" rel="noopener noreferrer">
                   <img src={github} alt="GitHub" />
                 </a>
+              </div>
                 <Modal
                   obj={item} // Envia para o modal o objeto para ser exibido
                   isOpen={openModalId === index} // Só abre se o ID corresponder
                   onClose={closeModal}
                 />
-              </div>
             </div>
           )
         )}
