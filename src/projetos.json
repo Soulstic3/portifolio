@@ -1,6 +1,27 @@
 [
   {
     "id": 1,
+    "titulo": "Sunnyside",
+    "descricao": "Landing page feita com react js, vite e Tailwind CSS",
+    "detalhes": "Este projeto foi desenvolvido em React.js. Utilizei o Tailwind CSS para agilizar o processo de estilização de componentes, esse projeto foi um desafio proposto pelo Frontend Mentor. O código-fonte completo está disponível no meu GitHub:",
+    "images": [
+      { "url": "images/projetos/Sunnyside-1.png" },
+      { "url": "images/projetos/Sunnyside-2.png" },
+      { "url": "images/projetos/Sunnyside-3.png" },
+      { "url": "images/projetos/Sunnyside-4.png" },
+      { "url": "images/projetos/Sunnyside-5.png" },
+      { "url": "images/projetos/Sunnyside-6.png" },
+      { "url": "images/projetos/Sunnyside-7.png" },
+      { "url": "images/projetos/Sunnyside-8.png" },
+      { "url": "images/projetos/Sunnyside-9.png" },
+      { "url": "images/projetos/Sunnyside-10.png" },
+      { "url": "images/projetos/Sunnyside-11.png" },
+      { "url": "images/projetos/Sunnyside-12.png" }
+    ],
+    "link": "https://github.com/Soulstic3/sunnyside_frontend_mentor"
+  },
+  {
+    "id": 2,
     "titulo": "Pokédex",
     "descricao": "Projeto feito com react js, utilizando da PokeAPI para fazer busca de dados sobre seus pokemons favoritos",
     "detalhes": "Este projeto foi desenvolvido em React.js. Utilizei o método fetch para fazer requisições à PokeAPI, uma API temática de Pokémon. A API retorna um objeto JSON, do qual filtrei apenas os dados necessários para exibição — como nome, imagens, ID e outras informações relevantes. O código-fonte completo está disponível no meu GitHub:",
@@ -13,7 +34,7 @@
   },
 
   {
-    "id": 2,
+    "id": 3,
     "titulo": "Jogo da Forca",
     "descricao": "Jogo de advinhação de palavras utilizando JavaScript",
     "detalhes": "Este projeto foi desenvolvido em JavaScript e consiste em um clássico jogo de adivinhação de palavras. O jogo inclui diferentes categorias, cada uma com um conjunto variado de palavras que são sorteadas aleatoriamente no início da partida. O jogador tem 6 chances para acertar a palavra secreta. O código-fonte está disponível no meu GitHub:",
@@ -26,7 +47,7 @@
   },
 
   {
-    "id": 3,
+    "id": 4,
     "titulo": "Gerador de Senha",
     "descricao": "Gerador de senha aleatoria criado utilizando javascript",
     "detalhes": "Este projeto foi desenvolvido em JavaScript como parte de um curso de JavaScript que eu estava realizando. Utilizando a função Math.random(), o sistema é capaz de gerar senhas aleatórias personalizadas, que podem incluir, letras maiúsculas, letras minúsculas, números e símbolos especiais. O código-fonte completo está disponível no meu GitHub:",
