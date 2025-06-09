@@ -311,7 +311,9 @@ h2 {
 .indicadores {
   position: absolute;
   bottom: 0;
-  left: 45%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 .carrosel button {
   height: max-content;
