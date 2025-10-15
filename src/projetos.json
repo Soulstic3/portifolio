@@ -56,5 +56,27 @@
       { "url": "images/projetos/gerador-2.png" }
     ],
     "link": "https://github.com/Soulstic3/Password-Generator"
+  },
+
+  {
+    "id": 5,
+    "titulo": "Fatima Estética e Terapias",
+    "descricao": "Landing page feita com react js, vite e Tailwind CSS",
+    "detalhes": "Desenvolvi uma landing page do zero para uma clínica de estética, com o objetivo de atrair e converter novos clientes. O projeto foi criado com React.js e estilizado com Tailwind CSS, partindo de um design próprio que desenvolvi no Figma.",
+    "images": [
+      {"url": "images/projetos/Estetica-1.png"},
+      {"url": "images/projetos/Estetica-2.png"},
+      {"url": "images/projetos/Estetica-3.png"},
+      {"url": "images/projetos/Estetica-4.png"},
+      {"url": "images/projetos/Estetica-5.png"},
+      {"url": "images/projetos/Estetica-6.png"},
+      {"url": "images/projetos/Estetica-7.png"},
+      {"url": "images/projetos/Estetica-8.png"},
+      {"url": "images/projetos/Estetica-9.png"},
+      {"url": "images/projetos/Estetica-10.png"},
+      {"url": "images/projetos/Estetica-11.png"},
+      {"url": "images/projetos/Estetica-12.png"}
+    ],
+    "link": "https://github.com/Soulstic3/fatima-estetica"
   }
 ]

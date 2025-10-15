@@ -155,7 +155,8 @@ h2 {
   flex-direction: row;
   flex-wrap: wrap;
   gap: 12px;
-  justify-content: space-between;
+  max-width: 950px;
+  margin: auto;
 }
 .content-card {
   background: #404040;
